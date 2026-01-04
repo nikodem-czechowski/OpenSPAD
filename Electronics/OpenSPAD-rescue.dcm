@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BAT46W-E3-08-SamacSys_Parts
+F https://www.vishay.com/docs/85663/bat46wv.pdf
+$ENDCMP
+#
+$CMP DS1124U-25+-SamacSys_Parts
+F https://ms.componentsearchengine.com/Datasheets/2/DS1124U-25+.pdf
+$ENDCMP
+#
+$CMP MAX1932ETC+-SamacSys_Parts
+F https://datasheets.maximintegrated.com/en/ds/MAX1932.pdf
+$ENDCMP
+#
+$CMP TLV3501AIDR-SamacSys_Parts
+F http://www.ti.com/lit/gpn/tlv3501
+$ENDCMP
+#
+#End Doc Library
